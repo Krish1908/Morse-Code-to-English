@@ -50,14 +50,30 @@ Instead of writing each line, do the below instead.
 
 ## Steps:
 
-1. Enter your text in the Input Text area.
+1. Clone or download this repository.
 
-2. Select the conversion type:
+2. Open the code in your editor.
+
+3. To run Morse Code 01 (terminal code), use the below line in your terminal.
+   
+   `py morse_code_01.py`
+
+   To run Morse Code 02 (tkinter), use the below line in your terminal.
+
+   `py morse_code_02.py`
+
+   To run Morse Code 03 (streamlit), use the below line in your terminal.
+
+   `streamlit run morse_code_03.py`
+   
+5. Enter your text in the Input Text area.
+
+6. Select the conversion type:
 
    English to Morse Code or Morse Code to English
 
-3. Click the Convert button to see the results in the Output area.
+7. Click the Convert button to see the results in the Output area.
 
-4. Click the play button to hear the output as audio.
+8. Click the play button to hear the output as audio.
 
-5. To clear all fields, click the Clear button.
+9. To clear all fields, click the Clear button.
