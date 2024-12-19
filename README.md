@@ -66,14 +66,14 @@ Instead of writing each line, do the below instead.
 
    `streamlit run morse_code_03.py`
    
-5. Enter your text in the Input Text area.
+4. Enter your text in the Input Text area.
 
-6. Select the conversion type:
+5. Select the conversion type:
 
    English to Morse Code or Morse Code to English
 
-7. Click the Convert button to see the results in the Output area.
+6. Click the Convert button to see the results in the Output area.
 
-8. Click the play button to hear the output as audio.
+7. Click the play button to hear the output as audio.
 
-9. To clear all fields, click the Clear button.
+8. To clear all fields, click the Clear button.
