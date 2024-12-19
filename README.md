@@ -22,6 +22,23 @@ The Morse Code Converter is a simple web application built using Streamlit and t
 
 **Python:** Core programming language for the application logic.
 
+## Dependencies:
+Install the following python libraries:
+
+playsound, pyttsx3, tkinter, streamlit.
+
+Open your terminal and install the dependencies by writing the below code.
+```
+pip install playsound
+pip install streamlit
+pip install pyttsx3
+pip install tkinter
+```
+Instead of writing each line, do the below instead.
+
+` pip install playsound pyttsxe streamlit tkinter`
+
+
 ## Available Scripts:
 **Morse_Code_01.py:** This is a python script which is deployed for the Terminal.
 
