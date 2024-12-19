@@ -32,11 +32,12 @@ Open your terminal and install the dependencies by writing the below code.
 pip install playsound
 pip install streamlit
 pip install pyttsx3
-pip install tkinter
 ```
 Instead of writing each line, do the below instead.
 
 ` pip install playsound pyttsx3 streamlit`
+
+`tkinter` and `time` libraries are pre-installed with python, so no need to install again.
 
 
 ## Available Scripts:
