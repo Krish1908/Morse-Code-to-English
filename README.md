@@ -15,12 +15,12 @@ The Morse Code Converter is a simple web application built using Streamlit that 
 
 **Real-Time Conversion:** Results are displayed immediately after the conversion process.
 
-## Technologies Used
+## Technologies Used:
 **Streamlit:** A powerful Python framework for building interactive web applications.
 
 **Python:** Core programming language for the application logic.
 
-## Steps
+## Steps:
 
 1. Enter your text in the Input Text area.
 
