@@ -36,7 +36,7 @@ pip install tkinter
 ```
 Instead of writing each line, do the below instead.
 
-` pip install playsound pyttsxe streamlit tkinter`
+` pip install playsound pyttsx3 streamlit`
 
 
 ## Available Scripts:
