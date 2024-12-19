@@ -13,6 +13,8 @@ The Morse Code Converter is a simple web application built using Streamlit and t
 
 **Real-Time Conversion:** Results are displayed immediately after the conversion process.
 
+**Audio:** Plays audio for the selected conversion output.
+
 ## Technologies Used:
 **Tkinter:** A GUI for Basic Python applications.
 
@@ -38,4 +40,6 @@ The Morse Code Converter is a simple web application built using Streamlit and t
 
 3. Click the Convert button to see the results in the Output area.
 
-4. To clear all fields, click the Clear button.
+4. Click the play button to hear the output as audio.
+
+5. To clear all fields, click the Clear button.
